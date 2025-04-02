@@ -4,7 +4,7 @@
 #include <array>
 #include <iostream>
 
-const auto COLUMNS = 30;
+const auto COLUMNS = 40;
 const auto ROWS = 24;
 
 using Row = std::bitset<COLUMNS>;
